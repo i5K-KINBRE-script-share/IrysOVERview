@@ -18,4 +18,4 @@ Using the Irys platform from BioNano Genomics high resolution genome maps are as
 	▪	scaffold extension
 	
 
-KSU is developing IrysOVERview as a tool to organize, summarize, vizualize, and share quality metrics from each of our flowcell runs. IrysOVERview allows our facilty to carefully monitor the quality of our output and test the efficacy of novel protocols. When developement is complete we invite other mapping facilites to try IrysOVERview with their own machines.
+KSU is developing IrysOVERview as a tool to organize, summarize, visualize, and share quality metrics from each of our flowcell runs. IrysOVERview allows our facilty to carefully monitor the quality of our output and test the efficacy of novel protocols. When developement is complete we invite other mapping facilites to try IrysOVERview with their own machines.
